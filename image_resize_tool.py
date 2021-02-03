@@ -1,4 +1,4 @@
-import ui
+import console, ui
 import math, clipboard
 
 class ImageSizeView(ui.View):                                   
